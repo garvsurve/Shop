@@ -1,4 +1,4 @@
-package io.github.garvsurve.shop;
+package io.github.garvsurve.shop.product;
 
 import java.util.Objects;
 
